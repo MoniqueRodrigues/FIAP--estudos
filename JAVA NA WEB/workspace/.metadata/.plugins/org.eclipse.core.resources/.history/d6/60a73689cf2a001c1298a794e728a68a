@@ -1,0 +1,30 @@
+package model;
+
+public class Restaurante {
+	private String nome;
+	private int qualidade;
+	private int escalaPreco;	
+	
+	public Restaurante(String nome, int qualidade, int escalaPreco ) {	
+		super();
+		this.nome = nome;
+		this.qualidade=qualidade;
+		this.escalaPreco =escalaPreco;
+			
+		
+	}
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+}
